@@ -1,5 +1,5 @@
 ## BIM_Profiles
-####An evolving library of BIM Profiles
+#### An evolving library of BIM Profiles
 
 ---
 
@@ -9,8 +9,8 @@ This repo, like most OpeningDesign's projects, is open source (Attribution-Share
 
 
 - All OpeningDesign Projects can be found here:
- - https://github.com/OpeningDesign
+  - https://github.com/OpeningDesign
 - About OpeningDesign:
- - http://openingdesign.com/about/
+  - http://openingdesign.com/about/
 - Interested in Collaborating "Out-in-the-Open"?:
- - http://openingdesign.com/collaborators/
+  - http://openingdesign.com/collaborators/
