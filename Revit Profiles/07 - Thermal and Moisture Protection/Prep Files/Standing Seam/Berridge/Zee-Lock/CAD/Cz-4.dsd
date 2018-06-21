@@ -1,0 +1,340 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:CZ-102-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-102.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-102.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Cz-4-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+Layout=Model
+Setup=zoom to extents
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Cz-5-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-5.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-5.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Cz-6-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-6.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-6.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-10-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-10.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-10.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-11-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-11.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-11.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-20-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-20.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-20.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-21-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-21.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-21.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-22-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-22.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-22.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-30-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-30.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-30.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-31-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-31.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-31.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-32-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-32.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-32.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-40-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-40.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-40.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-41-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-41.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-41.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-42-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-42.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-42.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-50-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-50.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-50.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-51-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-51.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-51.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-52-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-52.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-52.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-53-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-53.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-53.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-60-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-60.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-60.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-70-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-70.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-70.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Cz-71-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-71.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-71.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-72-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-72.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-72.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Cz-73-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-73.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-73.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-74-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-74.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-74.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-80-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-80.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-80.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Cz-81-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-81.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-81.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-82-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-82.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-82.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Cz-83-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-83.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-83.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-84-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-84.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-84.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Cz-85-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-85.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-85.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-86-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-86.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-86.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-90-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-90.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-90.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-91-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-91.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-91.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-92-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-92.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-92.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-93-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-93.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-93.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-94-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-94.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-94.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-95-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-95.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-95.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-96-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-96.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-96.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-97-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-97.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-97.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-100-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-100.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-100.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:CZ-101-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-101.dwg
+Layout=Model
+Setup=zoom to extents|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\CZ-101.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\Cz-4.pdf
+OUT=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\
+PWD=
+[MRU Local]
+MRU=1
+File0=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\
+[MRU Sheet List]
+MRU=0
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=FALSE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Unnamed Profile>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

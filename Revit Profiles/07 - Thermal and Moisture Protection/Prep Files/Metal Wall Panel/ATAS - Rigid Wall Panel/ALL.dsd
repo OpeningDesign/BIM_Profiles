@@ -1,0 +1,123 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:Rigid-Wall-Panel-Lap-Detail-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\Rigid-Wall-Panel-Lap-Detail.dwg
+Layout=Model
+Setup=Model Space|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Base-Detail-Vertical.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\Rigid-Wall-Panel-Lap-Detail.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:MFR-Base-Detail-Vertical-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Base-Detail-Vertical.dwg
+Layout=Model
+Setup=Model Space
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Base-Detail-Vertical.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:MFR-Endwall-Detail-Vertical-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Endwall-Detail-Vertical.dwg
+Layout=Model
+Setup=Model Space|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Base-Detail-Vertical.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Endwall-Detail-Vertical.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:MFR-Head-Detail-Vertical-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Head-Detail-Vertical.dwg
+Layout=Model
+Setup=Model Space|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Base-Detail-Vertical.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Head-Detail-Vertical.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:MFR-Inside-Corner-Detail-Vertical-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Inside-Corner-Detail-Vertical.dwg
+Layout=Model
+Setup=Model Space|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Base-Detail-Vertical.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Inside-Corner-Detail-Vertical.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:MFR-Jamb-Alt-Detail-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Jamb-Alt-Detail.dwg
+Layout=Model
+Setup=Model Space|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Base-Detail-Vertical.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Jamb-Alt-Detail.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:MFR-Jamb-Detail-Vertical-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Jamb-Detail-Vertical.dwg
+Layout=Model
+Setup=Model Space|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Base-Detail-Vertical.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Jamb-Detail-Vertical.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:MFR-Outside-Corner-Detail-Vertical-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Outside-Corner-Detail-Vertical.dwg
+Layout=Model
+Setup=Model Space|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Base-Detail-Vertical.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Outside-Corner-Detail-Vertical.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:MFR-Panel-Detail-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Panel-Detail.dwg
+Layout=Model
+Setup=Model Space|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Base-Detail-Vertical.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Panel-Detail.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:MFR-Top-of-Wall-Detail-Vertical-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Top-of-Wall-Detail-Vertical.dwg
+Layout=Model
+Setup=Model Space|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Base-Detail-Vertical.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Top-of-Wall-Detail-Vertical.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:MFR-Window-Sill-Detail-Vertical-Model]
+DWG=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Window-Sill-Detail-Vertical.dwg
+Layout=Model
+Setup=Model Space|C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Base-Detail-Vertical.dwg
+OriginalSheetPath=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\MFR-Window-Sill-Detail-Vertical.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Metal Wall Panel\ATAS - Rigid Wall Panel\ALL.pdf
+OUT=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\
+PWD=
+[MRU Local]
+MRU=1
+File0=C:\Dropbox\GitHub\BIM_Profiles\Revit Profiles\07 - Thermal and Moisture Protection\Prep Files\Standing Seam\Berridge\Zee-Lock\CAD\
+[MRU Sheet List]
+MRU=0
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=FALSE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Unnamed Profile>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
