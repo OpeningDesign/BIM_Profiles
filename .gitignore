@@ -1,6 +1,6 @@
 *.*.rvt
 *.*.rte
-*.*.rfa
+*.000*.rfa
 *.ifc.log
 *.bak
 *.ifc.log.html
